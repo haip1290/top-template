@@ -1,2 +1,2 @@
-# top-todos
+# top-template
 Template of TOP project
