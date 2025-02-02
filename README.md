@@ -1,2 +1,2 @@
 # top-todos
-TOP Todo List
+Template of TOP project
